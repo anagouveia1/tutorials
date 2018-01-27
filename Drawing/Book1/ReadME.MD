@@ -49,13 +49,15 @@ The current images in this folder relate to a Review Sheet my students had in ea
     - Cleaning Up Oil Paint
  = Notes & Questions
  
-## THIS SOUNDS LIKE PHYSICS :planet:
+## THIS SOUNDS LIKE PHYSICS :star:
 
-- :scroll: [IMG0001](https://github.com/anagouveia1/tutorials/blob/master/Drawing/Book1/IMG0001.jpg?raw=true)
+- :scroll: [Universe Lines](IMG0001.jpg)
 
 For many year man qestioned how does all around us exist?
 They thought, first there must be a universe.
 How does it look like, we don't really know.
+
+![Planets](IMG0002.jpg)
 
 
 ## Understanding the Pieces of The Puzzle: {Art Concepts} 
@@ -68,7 +70,10 @@ Next material will go over the latest Quiz, while tieing back the idea of what t
 
 - :white_check_mark: [Solving] Can you find what is wrong in this image?
 
-- :scroll: [IMG0001](https://github.com/anagouveia1/tutorials/blob/master/Drawing/Book1/IMG0001.jpg?raw=true)
+- :scroll: [IMG0001](IMG0001.jpg)
+- :scroll: [IMG0002](https://github.com/anagouveia1/tutorials/blob/master/Drawing/Book1/IMG0002.jpg?raw=true)
+- :scroll: [IMG0003](https://github.com/anagouveia1/tutorials/blob/master/Drawing/Book1/IMG0003.jpg?raw=true)
+- :scroll: [IMG0004](https://github.com/anagouveia1/tutorials/blob/master/Drawing/Book1/IMG0004.jpg?raw=true)
 
 From Polynomials -> Equation with Roots Listed.
 From Roots -> Polynomials.
