@@ -85,8 +85,7 @@ Scientists before us have told stories about the nature of light waves, how they
 - [Waves](IMG0008.jpg)
 - [Waves Through Different Mediums](IMG0009.jpg)
 - [How density affects path of travel](IMG0010.jpg)
-
-![Rainbow Prism](IMG0011.jpg)
+- [Rainbow Prism](IMG0011.jpg)
 
 ### So What is Light?
 
@@ -94,7 +93,7 @@ Scientists before us have told stories about the nature of light waves, how they
 
 ### End then it turns into light?
 
-![Colors](IMG00034.jpg)
+- [Colors](IMG00034.jpg)
 
 ### And some of it is a shadow?
 
@@ -116,20 +115,20 @@ Our reviews have been centered on understanding the basic mathematics problems, 
 
 - :white_check_mark: [Solving] Can you find what is wrong in this image?
 
-- ![MirrorThoughts](IMG0052.jpg)
+- [MirrorThoughts](IMG0052.jpg)
 
 - :white_check_mark: [Solving] How would you compare the previous image to this one?
 
-- ![CoolerIdeas](IMG0053.jpg)
+- [CoolerIdeas](IMG0053.jpg)
 
 ### Pespectives & Reality
 
 - :white_check_mark: [Photography]If this is reality:
 
-- ![Allston2017](IMG0054.jpg)
+- [Allston2017](IMG0054.jpg)
 
 - :white_check_mark: [Canvas]Then this is ___________________________.
-- ![AllSTONCanvas](IMG0055.jpg)
+- [AllSTONCanvas](IMG0055.jpg)
 
 ### Types of Art & Media
 
@@ -143,19 +142,19 @@ Our reviews have been centered on understanding the basic mathematics problems, 
 
 - :scroll: More Ideas To Be Included As This Course Progresses
 
-![Boundaries](IMG0062.jpg)
+- [Boundaries](IMG0062.jpg)
 
 So long as you are conscious of the different tiny details of good mathematics,
 a complete solution will help you get the grade you know you deserve! :point_up:
 
 ## Painting Layers:
 
-- So how do we go From a frame to painting?
+### So how do we go From a frame to painting?
 
 - [Idea](IMG0064.jpg)
 - [Boundary Lines](IMG0065.jpg)
 
-### What's wrong with these two images? [Question# _____]
+### What's wrong with these two images?
 
 - [Transparency Details](IMG0060.jpg)
 - [Boundary Lines](IMG0066.jpg)
@@ -182,7 +181,7 @@ a complete solution will help you get the grade you know you deserve! :point_up:
 
 ## MATERIAL IDEAS:
 
-- :book: [Art Area Set Up]
+- :book: [Art Area Set Up](IMG0067.JPG)
 
 ![Art Area Setup](IMG0067.jpg)
 
