@@ -58,7 +58,9 @@ This ReadME.MD file is to highlight the material written in Light & Shadows, a r
 
 - How does it look like, we don't really know.
 
-![Planets](IMG0002.jpg) ![Mesh](IMG0003.JPG) ![SolarSystem](IMG0003.jpg)
+![Planets](IMG0002.jpg)
+![Mesh](IMG0003.JPG)
+![SolarSystem](IMG0003.jpg)
 
 ### From the Universe to our Solar System, to our Global System of Coordinates:
 
@@ -83,7 +85,8 @@ Scientists before us have told stories about the nature of light waves, how they
 - [Waves](IMG0008.jpg)
 - [Waves Through Different Mediums](IMG0009.jpg)
 - [How density affects path of travel](IMG0010.jpg)
-- [Rainbow Prism](IMG0011.jpg)
+
+![Rainbow Prism](IMG0011.jpg)
 
 ### So What is Light?
 
@@ -101,7 +104,7 @@ Scientists before us have told stories about the nature of light waves, how they
 Beyond the colors, then there's the beginning of the world as we experience:
 ============================================================================
 
-![Sea Shore](IMG0051.jpg)
+![SeaShore](IMG0051.jpg)
 
 ## Understanding the Pieces of The Puzzle: {Art Concepts} 
 
@@ -113,20 +116,20 @@ Our reviews have been centered on understanding the basic mathematics problems, 
 
 - :white_check_mark: [Solving] Can you find what is wrong in this image?
 
-![Mirror Thoughts](IMG0052.jpg)
+- ![MirrorThoughts](IMG0052.jpg)
 
 - :white_check_mark: [Solving] How would you compare the previous image to this one?
 
-![Cooler Ideas](IMG0053.jpg)
+- ![CoolerIdeas](IMG0053.jpg)
 
 ### Pespectives & Reality
 
 - :white_check_mark: [Photography]If this is reality:
 
-![Allston 2017](IMG0054.jpg)
+- ![Allston2017](IMG0054.jpg)
 
 - :white_check_mark: [Canvas]Then this is ___________________________.
-![Allston Canvas](IMG0055.jpg)
+- ![AllSTONCanvas](IMG0055.jpg)
 
 ### Types of Art & Media
 
@@ -179,10 +182,15 @@ a complete solution will help you get the grade you know you deserve! :point_up:
 
 ## MATERIAL IDEAS:
 
-- :book: [Art Area Setup](IMG0067.jpg)
+- :book: [Art Area Set Up]
+
+![Art Area Setup](IMG0067.jpg)
+
 - :page_facing_up: [Get SKETCHES](IMG0068.jpg)
 - :movie_camera: [PROJECTIONS](IMG0069.jpg)
-- :book: [Brushes](IMG0076.jpg)
+
+- :book: [Brushes]
+![Brushes](IMG0076.jpg)
 
 ---
 
